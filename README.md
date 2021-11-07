@@ -22,8 +22,8 @@ To fulfill the Challenge, you’ll need to do the following:
 The project can be viewed at: https://shrouded-hollows-00128.herokuapp.com/
 The projects code can be accessed at: https://https://github.com/AWiebe2021/Book-Search-Engine
 
-
-
+## Screenshot
+![Book Search Engine Screenshot](./Screenshot.png)
 
 ## Credits
 
